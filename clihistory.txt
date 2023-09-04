@@ -1,0 +1,14 @@
+    1  git clone https://github.com/shuzoKC/CISC3115_KEONI
+    2  cd CISC3115_KEONI
+    3  mkdir assignment1
+    4  mkdir javacode
+    5  cd javacode
+    6  touch helloWorld.txt
+    7  cd ..
+    8  pwd
+    9  cd /c/Users/help/CISC3115_KEONI/javacode
+   10  cd ..
+   11  cd ~/CISC3115_KEONI/javacode
+   12  cd ..
+   13  ls
+   14  history > clihistory.txt
